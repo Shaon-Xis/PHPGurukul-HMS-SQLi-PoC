@@ -65,7 +65,7 @@ To verify the Time-based Blind SQL Injection, we can inject a `SLEEP(5)` command
 5.  Observe that the server takes 5+ seconds to respond.
 
 ### Execution Evidence (5s Delay)
-<img width="2542" height="1549" alt="23af7ba6330e2cee82fac8c97a4500ff" src="https://github.com/user-attachments/assets/2a8ec069-11ea-47fa-afa7-7619acda8d58" />
+<img width="2556" height="1539" alt="image" src="https://github.com/user-attachments/assets/12c75559-05b2-4419-923e-b3bc6e13e6d0" />
 
 
 ## 5. Remediation
